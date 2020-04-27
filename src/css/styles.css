@@ -47,5 +47,13 @@ main {
   text-align: center;
   color: #fff;
   margin: 0 auto;
+  user-select: none;
 }
 
+.unmatched{
+  opacity: 0.5;
+}
+
+.inactive {
+  opacity: 0.5;
+}
