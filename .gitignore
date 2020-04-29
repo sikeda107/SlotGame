@@ -105,3 +105,6 @@ dist
 
 # VSCode setting files
 .vscode/
+
+# MetaMask Wallet mnemonic
+.secret
